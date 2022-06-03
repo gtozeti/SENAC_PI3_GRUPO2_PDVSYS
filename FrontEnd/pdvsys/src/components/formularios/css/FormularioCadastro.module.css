@@ -1,0 +1,81 @@
+/* #2D4059 #EA5455  #F07B3F #FFD460  https://colorhunt.co/palette/2d4059ea5455f07b3fffd460 */
+.div {
+    background-color: #EFEFEF;
+    margin: 50px auto;
+    width: 50%;
+    align-items: center;
+    border-width: 1px;
+    border-radius: 10px;
+    padding-bottom: 10px;
+  }
+  
+  .div form {
+
+      margin: auto;
+      text-align: center;
+      padding-top: 10px;  
+      
+    }
+  
+  .div form h2{
+      margin-top: 2px;
+      color: black;
+    }
+  
+  .div form div label input{
+    width: 300px;
+    border-color: #707070;
+    border-width: 1px;
+    border-radius: 10px;
+    padding: 4px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    text-align: center;
+  }
+
+  .div form div label input::placeholder{
+    color: #C3C3C3;
+    font-weight: bold;
+  }
+
+
+  
+  .div form input[type=submit]  {
+    width: 300px;
+    background-color: #205375;
+    color: #EFEFEF;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 2px solid;
+    border-radius: 10px;
+    height: 30px;
+    font-weight: bold;
+    text-align: center;
+    
+  }
+
+  .div form div span{
+    color: red;
+    font-size: x-small;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+  }
+
+  
+  .cadastroEmail{
+    background-image:url('../../../assets/icons/email.png');
+    background-size: auto 20px;
+    background-repeat:no-repeat;
+    background-position:2%;
+  }
+
+  
+  .cadastroSenha{
+    background-image:url('../../../assets/icons/cadeado.png');
+    background-size: auto 20px;
+    background-repeat:no-repeat;
+    background-position:2%;
+  }

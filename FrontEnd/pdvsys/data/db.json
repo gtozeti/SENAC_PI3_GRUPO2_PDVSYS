@@ -1,0 +1,18 @@
+{
+  "produtos": [
+    {
+      "categoria": "teste",
+      "nome": "teste33",
+      "valor": "333",
+      "quantidade": "333",
+      "id": 1
+    },
+    {
+      "categoria": "teste",
+      "nome": "abacate",
+      "valor": "232",
+      "quantidade": "22",
+      "id": 2
+    }
+  ]
+}

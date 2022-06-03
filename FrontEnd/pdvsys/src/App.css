@@ -1,0 +1,96 @@
+.App {
+  text-align: center;
+}
+
+header {
+  background-color: #EFEFEF;
+  margin: 0 auto;
+  padding: 10px;
+  border-bottom: 10px;
+}
+
+
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
+th {
+
+  background-color: #8FA8B9;
+  color: #EFEFEF;
+  padding: 5px;
+
+
+}
+
+td {
+
+  text-align: center;
+}
+
+.editar {
+
+  background-image: url('../src/assets/icons/edit.png');
+  background-size: auto 20px;
+  background-repeat: no-repeat;
+  background-position: 2%
+}
+
+.excluir {
+
+  background-image: url('../src/assets/icons/delete.png');
+  background-size: auto 20px;
+  background-repeat: no-repeat;
+  background-position: 2%
+}
+
+.esquerda {
+  text-align: right;
+  width: 250px;
+}
+
+.troca {
+  text-align: center;
+  width: 4em;
+  border-color: #F66B0E;
+}
+
+.blocoE {
+  width: 250px;
+}
+
+.concluir {
+  width: 120px;
+  background-color: #2FAA4B;
+  color: #EFEFEF;
+  margin-right: 10%;
+  margin-top: 15px;
+  border: 2px solid;
+  border-radius: 10px;
+  height: 30px;
+  font-weight: bold;
+  text-align: center;
+  float: right;
+}
+
+.cancelar {
+    width: 120px;
+    background-color: #C80000;
+    color: #EFEFEF;
+    margin-left: 10%;
+    margin-top: 15px;
+    border: 2px solid;
+    border-radius: 10px;
+    height: 30px;
+    font-weight: bold;
+    text-align: center;
+    float: left;
+}
+
+.valor{
+  border: none;
+  display: flex;
+  
+}

@@ -1,0 +1,88 @@
+/* #2D4059 #EA5455  #F07B3F #FFD460  https://colorhunt.co/palette/2d4059ea5455f07b3fffd460 */
+.div {
+    background-color: #EFEFEF;
+    margin: 50px auto;
+    width: 30%;
+    border-width: 1px;
+    border-radius: 10px;
+    padding-bottom: 80px;
+  }
+
+  
+  .div form {
+
+      margin: auto;
+      padding-top: 10px;  
+      
+    }
+  
+  .div form h2{
+      margin-top: 2px;
+      color: black;
+    }
+  
+  .div form div label input{
+    width: 200px;
+    border-color: #707070;
+    border-width: 1px;
+    border-radius: 10px;
+    padding: 4px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+   
+  }
+  .div form div label input::placeholder{
+    color: #C3C3C3;
+    font-weight: bold;
+  }
+
+  
+  .div form input[type=submit]  {
+    width: 120px;
+    background-color: #205375;
+    color: #EFEFEF;
+    margin-right: 18%;
+    margin-top: 15px;
+    border: 2px solid;
+    border-radius: 10px;
+    height: 30px;
+    font-weight: bold;
+    text-align: center;
+    float: right;
+    
+  }
+
+  .div form div span{
+ 
+    display: inline-block;
+    color: black;
+    font-weight: bold;
+    width: 160px;
+    text-align: left;
+    
+  }
+
+.div form label select{
+    width: 210px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    border-radius: 10px;
+    height: 20px;
+    height: 30px;
+}
+
+.div form button {
+  width: 120px;
+    background-color: #C80000;
+    color: #EFEFEF;
+    margin-left: 18%;
+    margin-top: 15px;
+    border: 2px solid;
+    border-radius: 10px;
+    height: 30px;
+    font-weight: bold;
+    text-align: center;
+    float: left;
+    
+  }
+

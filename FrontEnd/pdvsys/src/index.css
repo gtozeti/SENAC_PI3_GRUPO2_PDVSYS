@@ -1,0 +1,52 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+button, input[type=submit], input[type=reset]{
+  cursor: pointer;
+}
+
+a{
+  text-decoration: none;
+  border: none;
+  transition: 0.4s;
+  font-size: 1em;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+  'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  sans-serif;
+}
+
+a .bbuttona{
+  width: 200px;
+  color: #EFEFEF;
+  margin-top: 40px ;
+  border: 0px solid;
+  height: 30px;
+  font-weight: bold;
+  text-align: center;
+  background-color: #205375;
+  color: white;
+}
+
+a .bbuttoni{
+  width: 200px;
+  color: #EFEFEF;
+  margin-top: 40px ;
+  border: 0px solid;
+  height: 30px;
+  font-weight: bold;
+  text-align: center;
+  background-color: #8FA8B9;
+  color: white;
+}

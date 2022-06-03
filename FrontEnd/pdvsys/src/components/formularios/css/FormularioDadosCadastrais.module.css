@@ -1,0 +1,72 @@
+/* #2D4059 #EA5455  #F07B3F #FFD460  https://colorhunt.co/palette/2d4059ea5455f07b3fffd460 */
+.div {
+    background-color: #EFEFEF;
+    margin: 50px auto;
+    width: 40%;
+    border-width: 1px;
+    border-radius: 10px;
+    padding-bottom: 10px;
+  }
+
+  
+  .div form {
+
+      margin: auto;
+      padding-top: 10px;  
+      
+    }
+  
+  .div form h2{
+      margin-top: 2px;
+      color: black;
+    }
+  
+  .div form div label input{
+    width: 200px;
+    border-color: #707070;
+    border-width: 1px;
+    border-radius: 10px;
+    padding: 4px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+   
+  }
+  .div form div label input::placeholder{
+    color: #C3C3C3;
+    font-weight: bold;
+  }
+
+  
+  .div form input[type=submit]  {
+    width: 300px;
+    background-color: #205375;
+    color: #EFEFEF;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    border: 2px solid;
+    border-radius: 10px;
+    height: 30px;
+    font-weight: bold;
+    text-align: center;
+    
+  }
+
+  .div form div span{
+ 
+    display: inline-block;
+    color: black;
+    font-weight: bold;
+    width: 160px;
+    text-align: left;
+    
+  }
+
+.div form label select{
+    width: 210px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    border-radius: 10px;
+    height: 20px;
+    height: 30px;
+}
+
